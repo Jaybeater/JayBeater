@@ -1,0 +1,7 @@
+{
+  "name": "SkyAI Airlines",
+  "description": "Nền tảng đặt vé máy bay thông minh với tính năng Check-in và nhận diện hành lý bằng AI.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
